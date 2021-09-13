@@ -1,4 +1,4 @@
-image: gitpod/workspace-full
+à 6image: gitpod/workspace-full
 tasks:
   - init: |
       source settings/variables.txt
